@@ -1,0 +1,1 @@
+export type CalculoHipotenusa = (ladoB: number, ladoC: number) => number;
